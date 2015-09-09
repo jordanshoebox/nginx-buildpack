@@ -16,7 +16,7 @@ UPLOAD_VERSION=2.2
 RESTY_VERSION=1.7.4.1
 
 nginx_tarball_url=http://nginx.org/download/nginx-${NGINX_VERSION}.tar.gz
-pcre_tarball_url=http://garr.dl.sourceforge.net/project/pcre/pcre/${PCRE_VERSION}/pcre-${PCRE_VERSION}.tar.bz2
+pcre_tarball_url=http://iweb.dl.sourceforge.net/project/pcre/pcre/${PCRE_VERSION}/pcre-${PCRE_VERSION}.tar.bz2
 headers_more_nginx_module_url=https://github.com/agentzh/headers-more-nginx-module/archive/v${HEADERS_MORE_VERSION}.tar.gz
 upload_module_url=https://github.com/vkholodkov/nginx-upload-module/archive/${UPLOAD_VERSION}.tar.gz
 resty_url=http://openresty.org/download/ngx_openresty-${RESTY_VERSION}.tar.gz
